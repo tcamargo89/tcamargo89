@@ -1,7 +1,7 @@
 ## Olá, eu sou o Thiago Camargo
 
 - 🔭 Hoje trabalho como analista de testes
-- 🌱 Estou aprendendo Javascript
+- 🌱 Estou aprendendo Javascript, HTML, CSS e Vue
 <div align="center">
   <a href="https://github.com/tcamargo89">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tcamargo89&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
